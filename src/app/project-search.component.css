@@ -1,0 +1,17 @@
+#search-box{
+    border-radius:25px;
+    width:500px;
+	height:25px;
+	border : 1px solid #016EC1;
+}
+h1{
+	font:48px Bold ;
+}
+button{
+	background-color:#FFCA00;
+	border-radius:25px;
+	width:250px;
+	height:40px;
+	font:bold;
+	
+}

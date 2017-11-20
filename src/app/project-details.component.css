@@ -1,0 +1,26 @@
+button{
+	background-color:#FFCA00;
+	border-radius:25px;
+	width:250px;
+	height:40px;
+	font:bold;
+	color:white;
+	
+}
+label{
+	font-color:#016EC1;
+	font: Bold 18px ;
+	}
+.back{
+	padding:5px;
+	margin:5px;
+}
+
+th, td {
+padding:3px;
+text-align:center;
+}
+.display {
+    border-collapse: collapse;
+    width: 100%;
+}

@@ -1,0 +1,27 @@
+<div class="container">
+  <img src= {{title}} height="75" >
+  <h1>{{projectDetails.name}} </h1>
+<div >
+  <div id="right">
+	<table class="display">
+		<tr>
+			<th><img src= {{title}} ></th>
+			<th><label>HEIGHT: </label></th>
+			<th><label>WEIGHT: </label></th>
+			<th><label>TYPE: </label></th>
+		</tr>
+		<tr>
+			<td> </td>
+			<td> {{projectDetails.height}}</td>
+			<td> {{projectDetails.weight}}</td>
+			<td>{{projectDetails.type}}</td>
+		</tr>
+	</table>
+	<br><br>
+	<div class="back">
+  <button (click)="goBack()">CREATE POKEMON</button> 
+  </div>
+ </div><br><br>
+</div>
+</div>
+

@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+	position:relative;
+	padding:5px;
+	border:20px solid #016EC1 ;
+	text-align:center;
+	color:#016EC1;
+	width:900px;
+	left:250px;
+	font-family: Roboto Condensed, sans-serif;
+}
+h1{
+	font-size:48px bold ;
+	font-family: Roboto Condensed, sans-serif;
+	text-transform: uppercase;
+}
+h2{
+	font-size: 40px bold;
+	font-family: Roboto Condensed, sans-serif;
+}
+h3{
+font-size:20px bold ;
+font-family: Roboto Condensed, sans-serif;
+}
+
+
+
+
